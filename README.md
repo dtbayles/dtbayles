@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **dtbayles@gmail.com**
 
-- 📄 Know about my experiences [drewbayles.come](drewbayles.come)
+- 📄 Know about my experiences [drewbayles.com](drewbayles.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
