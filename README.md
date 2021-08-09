@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Drew Bayles</h1>
 <h3 align="center">A computer science undergrad preparing to become a full stack developer</h3>
 
-- 🌱 I’m currently learning **Python (Django), React, Node**
+- 🌱 I’m currently learning **Python, Vue.js, and Node**
 
 - 👯 I’m looking to collaborate with **developers in West Africa**
 
