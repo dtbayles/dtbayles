@@ -10,10 +10,13 @@
 - 📄 Know about my experiences [drewbayles.com](drewbayles.com)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
   - 📫 LinkedIn **dtbayles@gmail.com**
+
   - 📫 Stackoverflow **dtbayles@gmail.com**
+
   - 📫 Twitter **dtbayles@gmail.com**
+<p align="left">
+
   
 <a href="https://twitter.com/drewbayles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="drewbayles" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dtbayles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="dtbayles" height="30" width="40" /></a>
