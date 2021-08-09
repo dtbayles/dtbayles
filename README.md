@@ -10,11 +10,19 @@
 - 📄 Know about my experiences [drewbayles.com](drewbayles.com)
 
 <h3 align="left">Connect with me:</h3>
-  - [LinkedIn](https://twitter.com/DrewBayles)
 
-  - Stackoverflow **dtbayles@gmail.com**
+- [LinkedIn](https://www.linkedin.com/in/drewbayles/)
+
+- [Stackoverflow](https://stackexchange.com/users/21305032/drew-bayles)
+
+- [Twitter](https://twitter.com/DrewBayles)
+
+  - [LinkedIn](https://www.linkedin.com/in/drewbayles/)
+
+  - [Stackoverflow](https://stackexchange.com/users/21305032/drew-bayles)
 
   - [Twitter](https://twitter.com/DrewBayles)
+
 <p align="left">
 
   
