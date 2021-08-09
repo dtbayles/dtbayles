@@ -10,11 +10,11 @@
 - 📄 Know about my experiences [drewbayles.com](drewbayles.com)
 
 <h3 align="left">Connect with me:</h3>
-  - 📫 LinkedIn **dtbayles@gmail.com**
+  - LinkedIn **dtbayles@gmail.com**
 
-  - 📫 Stackoverflow **dtbayles@gmail.com**
+  - Stackoverflow **dtbayles@gmail.com**
 
-  - 📫 Twitter **dtbayles@gmail.com**
+  - Twitter **dtbayles@gmail.com**
 <p align="left">
 
   
