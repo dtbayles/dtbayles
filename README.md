@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Drew Bayles</h1>
-<h3 align="center">A new grad with a B.S. in Computer Science from Brigham Young University and full stack developer</h3>
+<h3 align="center">A new grad with a B.S. in Computer Science from Brigham Young University</h3>
+<h3 align="center">Seeking full-time Software Engineering roles</h3>
 
 - 🌱 I’m currently working with **TypeScript, React.js, Node.js, Python, and Amazon Web Services (AWS)**
 
