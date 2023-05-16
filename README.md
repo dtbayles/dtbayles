@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Drew Bayles</h1>
-<h3 align="center">A computer science undergrad preparing to become a full stack developer</h3>
+<h3 align="center">A new grad with a B.S. in Computer Science from Brigham Young University and full stack developer</h3>
 
-- 🌱 I’m currently learning **Python, Vue.js, and Node**
+- 🌱 I’m currently working with **TypeScript, React.js, Node.js, Python, and Amazon Web Services (AWS)**
 
-- 👯 I’m looking to collaborate with **developers in West Africa**
+- 👯 I’m looking to collaborate with **developers all over the world 🌎🌍🌏**
 
 - 📫 How to reach me **dtbayles@gmail.com**
 
-- 📄 Know about my experiences [drewbayles.com](drewbayles.com)
+- 📄 See my portfolio and know about my experiences [drewbayles.com](drewbayles.com)
 
 <h3 align="left">Connect with me:</h3>
 
 - [LinkedIn](https://www.linkedin.com/in/drewbayles/)
-
-- [Stackoverflow](https://stackexchange.com/users/21305032/drew-bayles)
 
 - [Twitter](https://twitter.com/DrewBayles)
 
